@@ -1,0 +1,42 @@
+Penny Hofstadter
+Jelly Ave. 13
+penny@gmail.com
+555 0012
+1985-12-02
+
+Sheldon Lee Cooper
+London St. 23
+sheldon@gmail.com
+555 0013
+1980-11-09
+
+Howard Joel Wolowitz
+Fish St. 8
+howard@gmail.com
+555 0014
+1979-07-03
+
+Rajesh Ramayan Koothrappali
+Snow St. 33
+raj@gmail.com
+555 0015
+1981-05-04
+
+Bernadette Rostenkowski-Wolowitz
+Uncle Ave. 45
+bernadette@gmail.com
+555 0016
+1993-03-01
+
+Amy Farrah Fowler
+Italy St. 11
+amy@gmail.com
+555 0016
+1977-08-08
+
+Leonard Hofstadter
+Mars canyon St. 995
+leonard@gmail.com
+555 0017
+2001-06-21
+
